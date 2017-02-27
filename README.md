@@ -4,6 +4,8 @@ Babel plugin to transpile `import()` to `require`, for AMD module loaders
 
 **NOTE:** Babylon v6.12.0 is required to correctly parse dynamic imports.
 
+[![Build Status](https://travis-ci.org/genkgo/babel-plugin-dynamic-import-amd.png?branch=master)](https://travis-ci.org/genkgo/babel-plugin-dynamic-import-amd)
+
 ## Installation
 
 ```sh
