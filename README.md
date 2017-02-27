@@ -38,7 +38,7 @@ require("babel-core").transform("code", {
 
 ## Syntax
 
-Now just use syntax from []the proposal for adding a "function-like" import() module loading syntactic form](https://github.com/tc39/proposal-dynamic-import) to
+Now just use syntax from [the proposal for adding a "function-like" import() module loading syntactic form](https://github.com/tc39/proposal-dynamic-import) to
 JavaScript. It is currently in stage 3 of the TC39 process. 
 
 ```js
